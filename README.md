@@ -1,0 +1,1 @@
+This is just a gradle project which be tested in teamcity.
